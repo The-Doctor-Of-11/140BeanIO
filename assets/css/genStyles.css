@@ -1,0 +1,28 @@
+body {
+    font-family: 'Montserrat';
+    background-color: #F5F2D0;
+}
+
+header {
+    margin-left: 150px;
+    margin-top: 0px;
+}
+
+.topbar {
+    background-color: #966641;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+    /* justify-content: flex-end; */
+}
+
+.left-div {
+    flex: 5 0 0;
+}
+
+.right-div {
+    flex: 1 0 0;
+}
